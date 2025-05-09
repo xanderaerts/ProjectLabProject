@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+rais_anonymized/*
+rais_anonymized.zip
